@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My Site</title>
+    <title>My Site:zarc</title>
     <link>http://example.org/</link>
-    <description>Recent content on My Site</description>
+    <description>Recent content on My Site:zarc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 11 Sep 2019 17:28:57 +0800</lastBuildDate>
